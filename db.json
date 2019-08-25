@@ -1,0 +1,50 @@
+{
+  "students": [
+    {
+      "name": "Dylan",
+      "id": 221,
+      "score": 320,
+      "age": 24,
+      "collegeId": 1
+    },
+    {
+      "name": "Yarina",
+      "id": 121,
+      "score": 330,
+      "age": 23,
+      "collegeId": 2
+    },
+    {
+      "name": "鹦鹉螺",
+      "id": 282,
+      "score": 315,
+      "age": 25,
+      "collegeId": 2
+    },
+    {
+      "name": "Tim",
+      "id": "123",
+      "score": "311",
+      "age": "35",
+      "college": "www"
+    }
+  ],
+  "college": [
+    {
+      "id": 1,
+      "cname": "ZZIA"
+    },
+    {
+      "id": 2,
+      "cname": "CNU"
+    },
+    {
+      "id": 3,
+      "cname": "ECJ"
+    },
+    {
+      "id": 4,
+      "cname": "XJU"
+    }
+  ]
+}
